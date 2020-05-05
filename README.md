@@ -1,6 +1,6 @@
 # Read Me
 
-##Excerisce description
+## Excerisce description
 We create a new startuo for conference planning. Now we need an automated way for creating the conference schedule.
 
 **Preconditions:**
@@ -14,7 +14,7 @@ We create a new startuo for conference planning. Now we need an automated way fo
 The solution should generate a conference plan that minimizes empty slots and breaks between talks. Each day should feature a talk starting at 9 o'clock and another talk ending at 17 o'clock.
 The output should be a table that lists all talks for all days.
 
-##Instrucions
+## Instrucions
 
 In this repository the following files can be found:
 
